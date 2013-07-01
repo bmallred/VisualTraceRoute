@@ -1,0 +1,16 @@
+﻿<trace>
+	{routes}
+	<route>
+		<destination>{destination}</destination>
+		<hops>
+			{hops}
+			<hop count="{hop}">
+				<address>{address}</address>
+				<hostname>{hostname}</hostname>
+				<roundtrip>{roundtrip}</roundtrip>
+			</hop>
+			{/hops}
+		</hops>
+	</route>
+	{/routes}
+</trace>

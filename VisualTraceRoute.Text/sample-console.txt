@@ -1,0 +1,6 @@
+﻿{routes}
+Hop	Time	Address
+{hops}
+{hop}	{roundtrip}	[{hostname}] {address}
+{/hops}
+{/routes}
